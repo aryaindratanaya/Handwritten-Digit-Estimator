@@ -1,4 +1,4 @@
-# Handwritten-Digit-Estimator
+# Handwritten Digit Estimator
 <p align="center">
   <img src="https://www.mathworks.com/help/examples/nnet/win64/TrainABasicConvolutionalNeuralNetworkForClassificationExample_01.png"/>
 </p>
